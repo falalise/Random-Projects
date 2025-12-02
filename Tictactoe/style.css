@@ -1,0 +1,11 @@
+.cell{
+    width: 75px;
+    height: 75px;
+    border: 2px solid #000;
+}
+#cellContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 75px);
+    grid-template-rows: repeat(3, 75px);
+    gap: 0px 0px;
+}
