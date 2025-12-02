@@ -11,6 +11,6 @@ Track my growth as a developer
 
 Build a portfolio for university applications
 
-Share my learning process openly
+Try out new stuff and hone my coding skills since im currently serving NS
 
-Encourage myself to keep building regularly
+Encourage myself to work my brain
